@@ -1,0 +1,6 @@
+ssh -X dublxdlp04
+module load anaconda/3.7_el7 ;  
+export QT_XKB_CONFIG_ROOT=/usr/share/X11/xkb ; 
+/apps/python/anaconda3.7_el7/bin/spyder
+
+
